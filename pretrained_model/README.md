@@ -27,6 +27,8 @@ You can download the pretrained model separately:
   - [Download URL](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Retouching.pth)  
 
 or simply run the code [`download_models.py`](./download_models.py) to download the whole models from [Releases](https://github.com/FanChiMao/SRMNet-thesis/releases).  
-this is a normal line of text
 
+
+this is a normal line of text
+  * this is the first level of bullet points, made up of <space><space>*<space>
     * this is more indented, composed of <space><space><space><space>*<space>
