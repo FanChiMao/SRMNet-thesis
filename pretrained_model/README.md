@@ -1,7 +1,7 @@
 # Pre-trained model  
 
 You can download the pretrained model separately: 
-1. *Deblurring_motionblur*  
+1. Deblurring_motionblur  
   - [Google cloud](https://drive.google.com/file/d/1JEaUudRLndt--tIRgp3nEdDJOMFffAQb/view?usp=sharing)  
   - [Download URL](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Deblurring_motionblur.pth)  
 2. Dehaze_realworld  
@@ -27,3 +27,6 @@ You can download the pretrained model separately:
   - [Download URL](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Retouching.pth)  
 
 or simply run the code [`download_models.py`](./download_models.py) to download the whole models from [Releases](https://github.com/FanChiMao/SRMNet-thesis/releases).  
+this is a normal line of text
+  * this is the first level of bullet points, made up of <space><space>*<space>
+    * this is more indented, composed of <space><space><space><space>*<space>
