@@ -1,5 +1,5 @@
 # 利用可選擇性殘差塊在改良式階層編解碼器網路實現影像修復<br>Image Restoration by Selective Residual Block on Improved Hierarchical Encoder-Decoder Networks  
-范植貿(作者)、劉宗榮(指導教授)  
+范植貿(研究生)、劉宗榮(指導教授)  
 
 <!-- 這句看不見，一句話的註解 -->
 ***
@@ -26,6 +26,7 @@
 </table>
 
 ## Installation  
+
 
 ## Prepare datasets  
 
