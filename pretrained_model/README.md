@@ -2,11 +2,11 @@
 
 You can download the pretrained model separately:  
 
-    |Deblurring_motionblur|Dehaze_realworld|Denoise_gaussian|Denoise_realworld|  
-    | :-----------------: |:----:          |:----:          |:----:           |  
-    |[Google cloud](https://drive.google.com/file/d/1JEaUudRLndt--tIRgp3nEdDJOMFffAQb/view?usp=sharing) [Download URL](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Deblurring_motionblur.pth) |13.19     |11.32    |7.02     |  
-    | Octree              |20.80     |18.77    |9.69     |  
-    | Median-Cut          |6.90      |5.37     |4.18     |   
+|Deblurring_motionblur|Dehaze_realworld|Denoise_gaussian|Denoise_realworld|  
+| :-----------------: |:----:          |:----:          |:----:           |  
+|[Download 1](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Deblurring_motionblur.pth)  [Download 2](https://drive.google.com/file/d/1JEaUudRLndt--tIRgp3nEdDJOMFffAQb/view?usp=sharing) |13.19     |11.32    |7.02     |  
+| Octree              |20.80     |18.77    |9.69     |  
+| Median-Cut          |6.90      |5.37     |4.18     |   
 
 
 
