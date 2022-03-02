@@ -2,7 +2,7 @@
 
 You can download the pretrained model separately: 
 ## 1. Deblurring_motionblur  
-- Google cloud  
+- [Google cloud](https://drive.google.com/file/d/1JEaUudRLndt--tIRgp3nEdDJOMFffAQb/view?usp=sharing)  
 - [Download URL](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Deblurring_motionblur.pth)  
 ## 2. Dehaze_realworld  
 - Google cloud  
