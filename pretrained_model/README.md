@@ -2,11 +2,11 @@
 
 You can download the pretrained model separately:  
 
-    |Deblurring_motionblur|Dehaze_realworld|Denoise_gaussian|Denoise_realworld|  
-    | :-----------------: |:----:          |:----:          |:----:           |  
-    | |13.19     |11.32    |7.02     |  
-    | Octree              |20.80     |18.77    |9.69     |  
-    | Median-Cut          |6.90      |5.37     |4.18     |  
+|Deblurring_motionblur|Dehaze_realworld|Denoise_gaussian|Denoise_realworld|  
+| :-----------------: |:----:          |:----:          |:----:           |  
+| |13.19     |11.32    |7.02     |  
+| Octree              |20.80     |18.77    |9.69     |  
+| Median-Cut          |6.90      |5.37     |4.18     |   
 
 
 **Deblurring_motionblur**  
