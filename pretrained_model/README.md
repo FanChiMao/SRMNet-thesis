@@ -26,4 +26,4 @@ You can download the pretrained model separately:
 - Google cloud  
 - [Download URL](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Retouching.pth)  
 
-or simply run the code [`download_models.py]`](./download_models.py) to download the whole models from [Releases](https://github.com/FanChiMao/SRMNet-thesis/releases).  
+or simply run the code [`download_models.py`](./download_models.py) to download the whole models from [Releases](https://github.com/FanChiMao/SRMNet-thesis/releases).  
