@@ -23,7 +23,7 @@ You can download the pretrained model separately:
 - [Google cloud](https://drive.google.com/file/d/17Oba3oIKXKK1tMn_PjZqykwOWNezATPb/view?usp=sharing)  
 - [Download URL](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/LLEnhancement.pth)  
 ## 8 .Retouching  
-- [Google cloud]()  
+- [Google cloud](https://drive.google.com/file/d/1qYxB5phSKsRQE__V1G5mW4HDktrz7EKy/view?usp=sharing)  
 - [Download URL](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Retouching.pth)  
 
 or simply run the code [`download_models.py`](./download_models.py) to download the whole models from [Releases](https://github.com/FanChiMao/SRMNet-thesis/releases).  
