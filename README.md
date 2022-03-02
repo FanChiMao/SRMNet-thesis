@@ -13,7 +13,6 @@ title:
 | yyyyyyyyyyyyyy Looooo  
 | oooooooooooooooo  
 | oooooooooooong  
-
 author: "Foo Bar"  
 date: "6 March 2015"  
 output: html_document  
