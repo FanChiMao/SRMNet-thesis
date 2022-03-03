@@ -88,11 +88,8 @@ If the data path and above configuration are all correctly setting, just simply 
 python train.py
 ```  
 
-## Pretrained models  
-All pre-trained models can be downloaded at [pretrained_model/README.md](pretrained_model/README.md) or [here](https://github.com/FanChiMao/SRMNet-thesis/releases/tag/v0.0).  
-
 ## Test  
-
+To test (evaluate) the quantitative scores of different tasks, see [`evaluation_code`](evaluation_code).  
 
 ## Results  
 
