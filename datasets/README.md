@@ -62,7 +62,7 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
 Download datasets from ablove links and place them in this directory. Your directory structure should look like this  
 
 <details>  
-<summary>training tree...</summary>   
+<summary>Training tree...</summary>   
   
   ```
   datasets  # datasets root
