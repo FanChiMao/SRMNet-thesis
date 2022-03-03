@@ -65,37 +65,70 @@ Download datasets from here and place them in this directory. Your directory str
   ```
   datasets  # datasets root
     ├── train                    # training data root (have training and validation set)  
-    |     ├── DIV2K              # Denoising training dataset
-    |          ├── test          # validation set
-    |          |    ├── input    # noise images set
-    |          |    └── target   # gt images set 
-    |          └── train         # training set
-    |               ├── input    # noise images set
-    |               └── target   # gt images set 
-    
-    ├── deraindrop  
-    |    ├── test
-    |    |     ├── input
-    |    |     └── target    
-    |    └── train
-    |          ├── input
-    |          └── target    
-    ├── dehaze
-    |    ├── test
-    |    |     ├── input
-    |    |     └── target    
-    |    └── train
-    |          ├── input
-    |          └── target    
-    └── deblur
-         ├── test
-         |     ├── input
-         |     └── target    
-         └── train
-               ├── input
-               └── target    
-
-
+          ├── DIV2K              # Denoising training dataset
+          |    ├── test          # validation set
+          |    |    ├── input    # noise images set
+          |    |    └── target   # gt images set 
+          |    └── train         # training set
+          |         ├── input    # noise images set
+          |         └── target   # gt images set 
+          |
+          ├── FiveK              # Retouching training dataset
+          |    ├── test
+          |    |    ├── input
+          |    |    └── target
+          |    └── train
+          |         ├── input
+          |         └── target
+          |  
+          ├── GoPro              # Deblurring training dataset
+          |    ├── test
+          |    |    ├── input
+          |    |    └── target
+          |    └── train
+          |         ├── input
+          |         └── target
+          |  
+          ├── LOL                # LLEnhancement training dataset
+          |    ├── test
+          |    |    ├── input
+          |    |    └── target
+          |    └── train
+          |         ├── input
+          |         └── target
+          |    
+          ├── NH-Haze            # Dehaze training dataset
+          |    ├── test
+          |    |    ├── input
+          |    |    └── target
+          |    └── train
+          |         ├── input
+          |         └── target
+          |    
+          ├── Rain13k            # Derainstreak training dataset
+          |    ├── test
+          |    |    ├── input
+          |    |    └── target
+          |    └── train
+          |         ├── input
+          |         └── target
+          |      
+          ├── Raindrop           # Deraindrop training dataset
+          |    ├── test
+          |    |    ├── input
+          |    |    └── target
+          |    └── train
+          |         ├── input
+          |         └── target
+          |      
+          └── SIDD               # Denoising training dataset
+               ├── test
+               |    ├── input
+               |    └── target
+               └── train
+                    ├── input
+                    └── target
+                   
   ```  
   
 </details>  
