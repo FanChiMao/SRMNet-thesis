@@ -89,7 +89,7 @@ python train.py
 ```  
 
 ## Test  
-To test (evaluate) the quantitative scores of different tasks, see [`evaluation_code`](evaluation_code).  
+To test (evaluate) the quantitative scores of different tasks, see [**`evaluation_code`**](evaluation_code).  
 
 ## Results  
 
