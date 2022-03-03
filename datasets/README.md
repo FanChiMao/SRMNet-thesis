@@ -14,7 +14,7 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
 - D-haze (test):  
   - Validation & Testing set: [D-haze](https://data.vision.ee.ethz.ch/cvl/ntire19//dense-haze/)  
 
-## Denoise_gaussian  
+## Denoise (gaussian)  
 - DIV2K (train):  
   - Training & Validation set: [DIV2K train val](https://data.vision.ee.ethz.ch/cvl/DIV2K/)  
 - CBSD68 (test):
@@ -24,7 +24,7 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
 - Set5 (test):
   - Testing set: [Set5](https://www.kaggle.com/ll01dm/set-5-14-super-resolution-dataset)  
 
-## Denoise_realworld  
+## Denoise (realworld)  
 - SIDD small (train & test):
   - Training & Validation set: [SIDD train benchmark](https://www.eecs.yorku.ca/~kamel/sidd/dataset.php)
   - Testing set: [SIDD benchmark](https://www.eecs.yorku.ca/~kamel/sidd/dataset.php)  
