@@ -77,7 +77,9 @@ To train the restoration models of SRMNet. You should check the following compon
 </details>  
 
 If the data path and above configuration are all correctly setting, just simply run:  
-`python train.py`  
+```
+python train.py
+```  
 
 ## Pretrained models  
 For the pretrained models of different tasks, see [**pretrained_model/README.md**](pretrained_model/README.md).  
