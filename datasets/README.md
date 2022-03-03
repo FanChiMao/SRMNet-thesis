@@ -59,7 +59,7 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
   - Testing set: [MIT-5K](https://drive.google.com/drive/folders/1Jv0_9CnYxh_2ReFaVrwG19O3F7xBtdZT?usp=sharing)
 
 ## Tree  
-Download datasets from here and place them in this directory. Your directory structure should look like this  
+Download datasets from ablove links and place them in this directory. Your directory structure should look like this  
 
 <details>  
 <summary>training tree...</summary>   
