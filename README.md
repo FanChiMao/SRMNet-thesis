@@ -92,6 +92,7 @@ python train.py
 To test (evaluate) the quantitative scores of different tasks, see [**`evaluation_code`**](evaluation_code).  
 
 ## Results  
+We achieved competitive performance on image denoising (gaussian & real-world), image deblurring, image deraining (rainstreak & raindrop), image dehazing and low-light image enhancement. Detailed results can be found in **section 4.3** of my thesis.  
 
 <details>  
 <summary>Denoise (gaussian noise) (click me) </summary>  
@@ -123,3 +124,6 @@ To test (evaluate) the quantitative scores of different tasks, see [**`evaluatio
 <summary>Enhancement (low-light) </summary>  
 <img src = "https://i.imgur.com/SnZxW6g.png" width="600">  
 </details>  
+
+## Contact  
+If you have any question, feel free to contact qaz5517359@gmail.com  
