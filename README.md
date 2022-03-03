@@ -39,14 +39,16 @@ conda install pytorch=1.8 torchvision cudatoolkit=10.2 -c pytorch
 
 ## Prepare datasets  
 The preparation of dataset in more detail, see [**datasets/README.md**](datasets/README.md).  
-In our experiments, we crop both training & testing data with the size of `256x256` by the code: [`generate_patches.py`](generate_patches.py).  
+In our experiments, we crop both training & testing data with the size of `256x256` by the code: [**`generate_patches.py`**](generate_patches.py).  
 More details aboult different restoration tasks can be found in **section 4.3** of my thesis.  
 
 ## Train  
 To train the restoration models of SRMNet. You should check the following components are correct:  
-(Take low-light image enhancement for example)  
+- `training.yaml`:(Take low-light image enhancement for example)  
 
-
+<details>  
+<summary>`training.yaml`</summary>   
+  
  ```
   # Training configuration
   GPU: [0,1,2,3]
@@ -74,10 +76,11 @@ To train the restoration models of SRMNet. You should check the following compon
     VAL_DIR: './datasets/train/LOL/test' # path to validation data
     SAVE_DIR: './checkpoints'           # path to save models and images
   ```
-
+  
+</details>  
 
 ## Pretrained models  
-For the pretrained models of different tasks, see [pretrained_model/README.md](pretrained_model/README.md).  
+For the pretrained models of different tasks, see [**pretrained_model/README.md**](pretrained_model/README.md).  
 
 ## Test  
 
