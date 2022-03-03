@@ -45,6 +45,8 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
   - Testing set: [Rain100H](https://drive.google.com/drive/folders/1PDWggNh8ylevFmrjo-JEvlmqsDlWWvZs)  
 - Rain100L (test):
   - Testing set: [Rain100L](https://drive.google.com/drive/folders/1PDWggNh8ylevFmrjo-JEvlmqsDlWWvZs)  
+- Test100 (test):
+  - Testing set: [Test100](https://drive.google.com/drive/folders/1PDWggNh8ylevFmrjo-JEvlmqsDlWWvZs)  
 
 ## LLEnhancement  
 - LOL (train & test):  
@@ -132,6 +134,3 @@ Download datasets from here and place them in this directory. Your directory str
   ```  
   
 </details>  
-
-
-
