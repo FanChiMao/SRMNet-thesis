@@ -44,10 +44,8 @@ More details aboult different restoration tasks can be found in **section 4.3** 
 
 ## Train  
 To train the restoration models of SRMNet. You should check the following components are correct:  
-- `training.yaml`:(Take low-light image enhancement for example)  
-
 <details>  
-<summary>`training.yaml`</summary>   
+<summary>training.yaml (Take low-light image enhancement for example)  </summary>   
   
  ```
   # Training configuration
@@ -76,8 +74,10 @@ To train the restoration models of SRMNet. You should check the following compon
     VAL_DIR: './datasets/train/LOL/test' # path to validation data
     SAVE_DIR: './checkpoints'           # path to save models and images
   ```
-  
 </details>  
+
+If the data path and above configuration are all correctly setting, just simply run:  
+`python train.py`  
 
 ## Pretrained models  
 For the pretrained models of different tasks, see [**pretrained_model/README.md**](pretrained_model/README.md).  
