@@ -82,7 +82,8 @@ python train.py
 ```  
 
 ## Pretrained models  
-For the pretrained models of different tasks, see [**pretrained_model/README.md**](pretrained_model/README.md).  
+For the pretrained models of different tasks, see .  
+**All pre-trained models can be downloaded at [pretrained_model/README.md](pretrained_model/README.md) or [here](https://github.com/FanChiMao/SRMNet-thesis/releases/tag/v0.0).**  
 
 ## Test  
 
