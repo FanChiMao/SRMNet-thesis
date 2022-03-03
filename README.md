@@ -93,4 +93,8 @@ To test (evaluate) the quantitative scores of different tasks, see [**`evaluatio
 
 ## Results  
 
+<details>  
+<summary>Denoise (gaussian) (click me) </summary>  
+<img src = "https://i.imgur.com/y370l6G.png" width="800">  
+</details>  
 
