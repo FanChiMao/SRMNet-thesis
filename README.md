@@ -94,7 +94,32 @@ To test (evaluate) the quantitative scores of different tasks, see [**`evaluatio
 ## Results  
 
 <details>  
-<summary>Denoise (gaussian) (click me) </summary>  
-<img src = "https://i.imgur.com/y370l6G.png" width="800">  
+<summary>Denoise (gaussian noise) (click me) </summary>  
+<img src = "https://i.imgur.com/y370l6G.png" width="600">  
+<img src = "https://i.imgur.com/FQZzaU6.png" width="600">  
 </details>  
-
+<details>  
+<summary>Denoise (real-world noise)</summary>  
+<img src = "https://i.imgur.com/n0oRKNS.png" width="600">  
+</details>  
+<details>  
+<summary>Deblur (motion blur) </summary>  
+<img src = "https://i.imgur.com/17DCXMD.png" width="600">  
+</details>  
+<details>  
+<summary>Derain (rain streak) </summary>  
+<img src = "https://i.imgur.com/EtYEt6X.png" width="600">  
+<img src = "https://i.imgur.com/XIN4Xki.png" width="600">  
+</details>  
+<details>  
+<summary>Derain (raindrop) </summary>  
+<img src = "https://i.imgur.com/W2VDfYb.png" width="600">  
+</details>  
+<details>  
+<summary>Dehaze (dense haze) </summary>  
+<img src = "https://i.imgur.com/iVNjdjA.png" width="600">  
+</details>  
+<details>  
+<summary>Enhancement (low-light) </summary>  
+<img src = "https://i.imgur.com/SnZxW6g.png" width="600">  
+</details>  
