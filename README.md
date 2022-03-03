@@ -40,7 +40,7 @@ conda install pytorch=1.8 torchvision cudatoolkit=10.2 -c pytorch
 ## Prepare datasets  
 The preparation of dataset in more detail, see [datasets/README.md](datasets/README.md).  
 In our experiments, we crop both training & testing data with the size of `256x256` by the code: [`generate_patches.py`](generate_patches.py).  
-More details aboult different restoration tasks can be found in **section 4.3** of my thesis.  
+More details aboult different restoration tasks can be found in **__section 4.3__** of my thesis.  
 
 ## Pretrained models  
 
