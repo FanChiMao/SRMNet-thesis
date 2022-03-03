@@ -5,21 +5,18 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
 - GoPro (train & test):  
   - Training set: [GoPro train](https://drive.google.com/drive/folders/1AsgIP9_X0bg0olu2-1N6karm2x15cJWE)  
   - Validation & Testing set: [GoPro test](https://drive.google.com/drive/folders/1a2qKfXWpNuTGOm2-Jex8kfNSzYJLbqkf)  
-<br/>  
 - HIDE(test):  
   - Testing set: [HIDE test](https://drive.google.com/drive/folders/1nRsTXj4iTUkTvBhTcGg8cySK8nd3vlhK)  
 
 ## Dehaze  
 - NH-haze (train):  
   - Training set: [NH-haze](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/)  
-<br/>  
 - D-haze (test):  
   - Validation & Testing set: [D-haze](https://data.vision.ee.ethz.ch/cvl/ntire19//dense-haze/)  
 
 ## Denoise_gaussian  
 - DIV2K (train):  
   - Training & Validation set: [DIV2K train val](https://data.vision.ee.ethz.ch/cvl/DIV2K/)  
-<br/>
 - CBSD68 (test):
   - Testing set: [CBSD68](https://github.com/clausmichele/CBSD68-dataset/tree/master/CBSD68/original)  
 - Kodak24 (test)
@@ -31,7 +28,6 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
 - SIDD small (train & test):
   - Training & Validation set: [SIDD train benchmark](https://www.eecs.yorku.ca/~kamel/sidd/dataset.php)
   - Testing set: [SIDD benchmark](https://www.eecs.yorku.ca/~kamel/sidd/dataset.php)  
-<br/>
 - DND (test):
   - Testing set: [DND](https://noise.visinf.tu-darmstadt.de/)  
     
@@ -43,7 +39,6 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
 ## Derainstreak  
 - Rain13k (train):  
   - Training set: [Rain13k](https://drive.google.com/drive/folders/1Hnnlc5kI0v9_BtfMytC2LR5VpLAFZtVe?usp=sharing)  
-<br/>
 - Test2800 (validation & test):  
   - Testing set: [Test2800](https://drive.google.com/drive/folders/1PDWggNh8ylevFmrjo-JEvlmqsDlWWvZs)  
 - Rain100H (test):
