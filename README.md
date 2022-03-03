@@ -38,7 +38,7 @@ conda install pytorch=1.8 torchvision cudatoolkit=10.2 -c pytorch
 ```
 
 ## Quick run  
-To test the pre-trained models of SRMNet on your own images, run
+To test the pre-trained models of SRMNet on your own images, see `quick_demo.py` and run
 ```
 python quick_demo.py --input_dir sample_images --result_dir sample_results --weights_root pretrained_model --gpu True --task [restoration tasks]
 ```
