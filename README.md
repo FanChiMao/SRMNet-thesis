@@ -42,9 +42,41 @@ The preparation of dataset in more detail, see [datasets/README.md](datasets/REA
 In our experiments, we crop both training & testing data with the size of `256x256` by the code: [`generate_patches.py`](generate_patches.py).  
 More details aboult different restoration tasks can be found in **section 4.3** of my thesis.  
 
-## Pretrained models  
-
 ## Train  
+To train the restoration models of SRMNet. You should check the following components are correct:
+(Take low-light image enhancement for example)  
+
+ ```
+  # Training configuration
+  GPU: [0,1,2,3]
+
+  VERBOSE: False
+
+  MODEL:
+    MODE: 'Enhancement'
+
+  # Optimization arguments.
+  OPTIM:
+    BATCH: 2
+    EPOCHS: 200
+    # EPOCH_DECAY: [10]
+    LR_INITIAL: 2e-4
+    LR_MIN: 1e-5
+    # BETA1: 0.9
+
+  TRAINING:
+    VAL_AFTER_EVERY: 1
+    RESUME: False
+    TRAIN_PS: 256
+    VAL_PS: 256
+    TRAIN_DIR: './datasets/train/LOL/train'       # path to training data
+    VAL_DIR: './datasets/train/LOL/test' # path to validation data
+    SAVE_DIR: './checkpoints'           # path to save models and images
+  ```
+
+
+## Pretrained models  
+For the pretrained models of different tasks, see [pretrained_model/README.md](pretrained_model/README.md).  
 
 ## Test  
 
