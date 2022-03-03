@@ -5,14 +5,14 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
 - GoPro (train & test):  
   - Training set: [GoPro train](https://drive.google.com/drive/folders/1AsgIP9_X0bg0olu2-1N6karm2x15cJWE)  
   - Validation & Testing set: [GoPro test](https://drive.google.com/drive/folders/1a2qKfXWpNuTGOm2-Jex8kfNSzYJLbqkf)  
-<br/>
+<br/>  
 - HIDE(test):  
   - Testing set: [HIDE test](https://drive.google.com/drive/folders/1nRsTXj4iTUkTvBhTcGg8cySK8nd3vlhK)  
 
 ## Dehaze  
 - NH-haze (train):  
   - Training set: [NH-haze](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/)  
-<br/>
+<br/>  
 - D-haze (test):  
   - Validation & Testing set: [D-haze](https://data.vision.ee.ethz.ch/cvl/ntire19//dense-haze/)  
 
