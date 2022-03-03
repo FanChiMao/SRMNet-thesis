@@ -38,7 +38,7 @@ conda install pytorch=1.8 torchvision cudatoolkit=10.2 -c pytorch
 ```
 
 ## Prepare datasets  
-
+The preparation of dataset in more detail, see [datasets/README.md](datasets/README.md).  
 
 ## Pretrained models  
 
