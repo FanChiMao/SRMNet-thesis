@@ -27,14 +27,14 @@
 </table>
 
 ## Installation  
-The model is built in PyTorch 1.8.0 and tested on Windows10 environment (Python-3.8, CUDA-10.2, cudnn-7.6).
+The model is built in PyTorch 1.8.0 and tested on Windows10 environment  
+(Python: 3.8, CUDA: 10.2, cudnn: 7.6).  
 
 For installing, follow these intructions
 ```
 conda create -n pytorch python=3.
 conda activate pytorch
 conda install pytorch=1.8 torchvision cudatoolkit=10.2 -c pytorch
-
 ```
 
 ## Prepare datasets  
