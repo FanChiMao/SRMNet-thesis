@@ -43,8 +43,9 @@ In our experiments, we crop both training & testing data with the size of `256x2
 More details aboult different restoration tasks can be found in **section 4.3** of my thesis.  
 
 ## Train  
-To train the restoration models of SRMNet. You should check the following components are correct:
+To train the restoration models of SRMNet. You should check the following components are correct:  
 (Take low-light image enhancement for example)  
+
 
  ```
   # Training configuration
