@@ -37,6 +37,13 @@ conda activate pytorch
 conda install pytorch=1.8 torchvision cudatoolkit=10.2 -c pytorch  
 ```
 
+## Quick run  
+To test the pre-trained models of SRMNet on your own images, run
+```
+python quick_demo.py --input_dir sample_images --result_dir sample_results --weights_root pretrained_model --gpu True --task [restoration tasks]
+```
+**All pre-trained models can be downloaded at [pretrained_model/README.md](pretrained_model/README.md) or [here](https://github.com/FanChiMao/SRMNet-thesis/releases/tag/v0.0).**  
+
 ## Prepare datasets  
 The preparation of dataset in more detail, see [**datasets/README.md**](datasets/README.md).  
 In our experiments, we crop both training & testing data with the size of `256x256` by the code: [**`generate_patches.py`**](generate_patches.py).  
@@ -82,9 +89,10 @@ python train.py
 ```  
 
 ## Pretrained models  
-**All pre-trained models can be downloaded at [pretrained_model/README.md](pretrained_model/README.md) or [here](https://github.com/FanChiMao/SRMNet-thesis/releases/tag/v0.0).**  
+All pre-trained models can be downloaded at [pretrained_model/README.md](pretrained_model/README.md) or [here](https://github.com/FanChiMao/SRMNet-thesis/releases/tag/v0.0).  
 
 ## Test  
+
 
 ## Results  
 
