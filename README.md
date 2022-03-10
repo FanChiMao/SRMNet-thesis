@@ -1,4 +1,4 @@
-# [NCHU thesis] Image Restoration by Selective Residual Block on Improved Hierarchical Encoder-Decoder Networks  
+# [NCHU thesis] <br />Image Restoration by Selective Residual Block on Improved Hierarchical Encoder-Decoder Networks  
 <!-- 利用可選擇性殘差塊在改良式階層編解碼器網路實現影像修復 -->
 ## Chi-Mao Fan(student)、Tsung-Jung Liu(adviser)  
 <!--范植貿(研究生)、劉宗榮(指導教授)  -->
