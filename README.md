@@ -160,7 +160,7 @@ We achieved competitive performance on image denoising (gaussian & real-world), 
 </details>  
 <details>  
 <summary>Dehaze (dense haze) </summary>  
-<img src = "https://i.imgur.com/iVNjdjA.png">  
+<img src = "https://i.imgur.com/l7cXfPO.png">  
 </details>  
 <details>  
 <summary>Enhancement (low-light) </summary>  
