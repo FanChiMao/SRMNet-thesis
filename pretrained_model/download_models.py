@@ -2,6 +2,7 @@ import wget
 from tqdm import tqdm
 
 def main():
+    print('It will cost about 8-10 minutes to download...')
     with tqdm(total=8) as bar:
         wget.download('https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Deblurring_motionblur.pth')
         bar.update(1)
@@ -19,10 +20,9 @@ def main():
         bar.update(1)
         wget.download('https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Retouching.pth')
         bar.update(1)
-    print('Done !!')
-
 
 
 if __name__ == '__main__':
     print('Start downloading pretrained models from https://github.com/FanChiMao/SRMNet-thesis/releases/tag/v0.0')
     main()
+    print('Done !!')
