@@ -100,7 +100,7 @@ To test (evaluate) the quantitative scores of different tasks, see [**`evaluatio
 We achieved competitive performance on image denoising (gaussian & real-world), image deblurring, image deraining (rainstreak & raindrop), image dehazing and low-light image enhancement. Detailed results can be found in **section 4.3** of my thesis.  
 
 <details>  
-<summary>Denoise (gaussian noise) (click me) </summary>  
+<summary><strong>Denoise (gaussian noise) </strong>(click me) </summary>  
 <img src = "https://i.imgur.com/y370l6G.png" width="600">  
 <img src = "https://i.imgur.com/FQZzaU6.png" width="600">  
 </details>  
