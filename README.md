@@ -101,7 +101,7 @@ We achieved competitive performance on image denoising (gaussian & real-world), 
 
 <details>  
 <summary>Denoise (gaussian noise) (click me) </summary>  
-<img src = "https://i.imgur.com/y370l6G.png" width="800">  
+<img src = "https://i.imgur.com/y370l6G.png" width="600">  
 <img src = "https://i.imgur.com/FQZzaU6.png" width="600">  
 </details>  
 <details>  
@@ -140,36 +140,36 @@ We achieved competitive performance on image denoising (gaussian & real-world), 
 </details>  
 <details>  
 <summary>Denoise (real-world noise)</summary>  
-<img src = "https://i.imgur.com/EjR675Q.png" width="600">  
-<img src = "https://i.imgur.com/DDFSnWZ.png" width="600">  
+<img src = "https://i.imgur.com/EjR675Q.png" width="800">  
+<img src = "https://i.imgur.com/DDFSnWZ.png" width="800">  
 </details>  
 <details>  
 <summary>Deblur (motion blur) </summary>  
-<img src = "https://i.imgur.com/qvLDFXV.png" width="600">  
-<img src = "https://i.imgur.com/NjDZ874.png" width="600">  
+<img src = "https://i.imgur.com/qvLDFXV.png" width="800">  
+<img src = "https://i.imgur.com/NjDZ874.png" width="800">  
 </details>  
 <details>  
 <summary>Derain (rain streak) </summary>  
-<img src = "https://i.imgur.com/7vSmWKY.png" width="600">  
-<img src = "https://i.imgur.com/EUc7H4B.png" width="600">  
+<img src = "https://i.imgur.com/7vSmWKY.png" width="800">  
+<img src = "https://i.imgur.com/EUc7H4B.png" width="800">  
 </details>  
 <details>  
 <summary>Derain (raindrop) </summary>  
-<img src = "https://i.imgur.com/fiOG2OH.png" width="600">  
-<img src = "https://i.imgur.com/PVJM2BX.png" width="600">  
+<img src = "https://i.imgur.com/fiOG2OH.png" width="800">  
+<img src = "https://i.imgur.com/PVJM2BX.png" width="800">  
 </details>  
 <details>  
 <summary>Dehaze (dense haze) </summary>  
-<img src = "https://i.imgur.com/iVNjdjA.png" width="600">  
+<img src = "https://i.imgur.com/iVNjdjA.png" width="800">  
 </details>  
 <details>  
 <summary>Enhancement (low-light) </summary>  
-<img src = "https://i.imgur.com/wc93L6t.png" width="600">  
+<img src = "https://i.imgur.com/wc93L6t.png" width="800">  
 </details>  
 <details>  
 <summary>Retouching </summary>  
-<img src = "https://i.imgur.com/9zhMqB6.png" width="600">  
-<img src = "https://i.imgur.com/XyUeIE2.png" width="600">  
+<img src = "https://i.imgur.com/9zhMqB6.png" width="800">  
+<img src = "https://i.imgur.com/XyUeIE2.png" width="800">  
 </details>  
 
 ## Contact  
