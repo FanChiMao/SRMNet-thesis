@@ -1,6 +1,7 @@
 # Image Restoration by Selective Residual Block on Improved Hierarchical Encoder-Decoder Networks  
 <!-- 利用可選擇性殘差塊在改良式階層編解碼器網路實現影像修復 -->
-## 范植貿(研究生)、劉宗榮(指導教授)  
+## Chi-Mao Fan(student)、劉宗榮(adviser)  
+<!--范植貿(研究生)、劉宗榮(指導教授)  -->
 **Thesis**:  
 <br />
 **PPT report**:  
