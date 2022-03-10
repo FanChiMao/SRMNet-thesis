@@ -135,8 +135,8 @@ We achieved competitive performance on image denoising (gaussian & real-world), 
 
 <details>  
 <summary>Denoise (gaussian noise) (click me) </summary>  
-<img src = "https://i.imgur.com/nA2XNCA.png" width="600">  
-<img src = "https://i.imgur.com/VqaMIna.png" width="600">  
+<img src = "https://i.imgur.com/nA2XNCA.png">  
+<img src = "https://i.imgur.com/VqaMIna.png">  
 </details>  
 <details>  
 <summary>Denoise (real-world noise)</summary>  
