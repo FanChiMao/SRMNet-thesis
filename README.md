@@ -106,7 +106,7 @@ We achieved competitive performance on image denoising (gaussian & real-world), 
 </details>  
 <details>  
 <summary>Denoise (real-world noise)</summary>  
-<img src = "https://i.imgur.com/n0oRKNS.png" width="600">  
+<img src = "https://i.imgur.com/NxBRuqS.png" width="600">  
 </details>  
 <details>  
 <summary>Deblur (motion blur) </summary>  
