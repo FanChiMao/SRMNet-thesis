@@ -105,28 +105,28 @@ We achieved competitive performance on image denoising (gaussian & real-world), 
 <img src = "https://i.imgur.com/FQZzaU6.png" width="600">  
 </details>  
 <details>  
-<summary>Denoise (real-world noise)</summary>  
+<summary><strong>Denoise (real-world noise)</strong></summary>  
 <img src = "https://i.imgur.com/NxBRuqS.png" width="600">  
 </details>  
 <details>  
-<summary>Deblur (motion blur) </summary>  
+<summary><strong>Deblur (motion blur)</strong></summary>  
 <img src = "https://i.imgur.com/17DCXMD.png" width="600">  
 </details>  
 <details>  
-<summary>Derain (rain streak) </summary>  
+<summary><strong>Derain (rain streak)</strong></summary>  
 <img src = "https://i.imgur.com/EtYEt6X.png" width="600">  
 <img src = "https://i.imgur.com/XIN4Xki.png" width="600">  
 </details>  
 <details>  
-<summary>Derain (raindrop) </summary>  
+<summary><strong>Derain (raindrop)</strong></summary>  
 <img src = "https://i.imgur.com/W2VDfYb.png" width="600">  
 </details>  
 <details>  
-<summary>Dehaze (dense haze) </summary>  
+<summary><strong>Dehaze (dense haze)</strong></summary>  
 <img src = "https://i.imgur.com/iVNjdjA.png" width="600">  
 </details>  
 <details>  
-<summary>Enhancement (low-light) </summary>  
+<summary><strong>Enhancement (low-light)</strong></summary>  
 <img src = "https://i.imgur.com/SnZxW6g.png" width="600">  
 </details>  
 
@@ -134,40 +134,40 @@ We achieved competitive performance on image denoising (gaussian & real-world), 
 We achieved competitive performance on image denoising (gaussian & real-world), image deblurring, image deraining (rainstreak & raindrop), image dehazing, low-light image enhancement and image retouching. The following figures are some visual performances for different tasks. More detailed results can also be found in **section 4.3** of my thesis.  
 
 <details>  
-<summary><b>Denoise (gaussian noise)</b>(click me) </summary>  
+<summary><strong>Denoise (gaussian noise) </strong>(click me) </summary>  
 <img src = "https://i.imgur.com/nA2XNCA.png">  
 <img src = "https://i.imgur.com/VqaMIna.png">  
 </details>  
 <details>  
-<summary>Denoise (real-world noise)</summary>  
+<summary><strong>Denoise (real-world noise)</strong></summary>  
 <img src = "https://i.imgur.com/EjR675Q.png">  
 <img src = "https://i.imgur.com/DDFSnWZ.png">  
 </details>  
 <details>  
-<summary>Deblur (motion blur) </summary>  
+<summary><strong>Deblur (motion blur)</strong></summary>  
 <img src = "https://i.imgur.com/qvLDFXV.png">  
 <img src = "https://i.imgur.com/NjDZ874.png">  
 </details>  
 <details>  
-<summary>Derain (rain streak) </summary>  
+<summary><strong>Derain (rain streak)</strong></summary>  
 <img src = "https://i.imgur.com/7vSmWKY.png">  
 <img src = "https://i.imgur.com/EUc7H4B.png">  
 </details>  
 <details>  
-<summary>Derain (raindrop) </summary>  
+<summary><strong>Derain (raindrop)</strong></summary>  
 <img src = "https://i.imgur.com/fiOG2OH.png">  
 <img src = "https://i.imgur.com/PVJM2BX.png">  
 </details>  
 <details>  
-<summary>Dehaze (dense haze) </summary>  
+<summary><strong>Dehaze (dense haze)</strong></summary>  
 <img src = "https://i.imgur.com/l7cXfPO.png">  
 </details>  
 <details>  
-<summary>Enhancement (low-light) </summary>  
+<summary><strong>Enhancement (low-light)</strong></summary>  
 <img src = "https://i.imgur.com/wc93L6t.png">  
 </details>  
 <details>  
-<summary>Retouching </summary>  
+<summary><strong>Retouching</strong></summary>  
 <img src = "https://i.imgur.com/9zhMqB6.png">  
 <img src = "https://i.imgur.com/XyUeIE2.png">  
 </details>  
