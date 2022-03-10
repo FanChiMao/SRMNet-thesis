@@ -134,7 +134,7 @@ We achieved competitive performance on image denoising (gaussian & real-world), 
 We achieved competitive performance on image denoising (gaussian & real-world), image deblurring, image deraining (rainstreak & raindrop), image dehazing, low-light image enhancement and image retouching. The following figures are some visual performances for different tasks. More detailed results can also be found in **section 4.3** of my thesis.  
 
 <details>  
-<summary>Denoise (gaussian noise) (click me) </summary>  
+<summary><b>Denoise (gaussian noise)</b>(click me) </summary>  
 <img src = "https://i.imgur.com/nA2XNCA.png">  
 <img src = "https://i.imgur.com/VqaMIna.png">  
 </details>  
