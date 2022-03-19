@@ -44,6 +44,7 @@ conda install pytorch=1.8 torchvision cudatoolkit=10.2 -c pytorch
 ```
 
 ## Quick run  
+You can directly test your own images on my spcae of [**HuggingFace**](https://huggingface.co/spaces/52Hz/SRMNet_thesis)  
 To test the pre-trained models of SRMNet on your own images, make sure you have downloaded the pre-trained models and place to `./pretrained_model/`.  
 After [downloading](pretrained_model/download_models.py) the models, see [**`quick_demo.py`**](quick_demo.py) and run  
 ```
