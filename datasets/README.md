@@ -60,6 +60,7 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
 
 ## Preprocess  
 Crop the patches by [**generate_patches.py**](https://github.com/FanChiMao/SRMNet-thesis/blob/main/generate_patches.py) for each dataset according to the following table.  
+Note that the center crop for validation is build-in in [here](https://github.com/FanChiMao/SRMNet-thesis/blob/26b77e9d3f14ec1cc91c35bf8d8c8931170856b9/dataloader/dataset_RGB.py#L119-L122), you don't need to crop them manually.
 <img src = "https://i.imgur.com/b93EgXf.png" width="800">  
 <img src = "https://i.imgur.com/b93EgXf.png" width="800">  
 
