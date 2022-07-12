@@ -2,7 +2,7 @@
 <!-- 利用可選擇性殘差塊在改良式階層編解碼器網路實現影像修復 -->
 ## Chi-Mao Fan(student)、Tsung-Jung Liu(adviser)  
 [![pdf](https://img.shields.io/badge/PDF-Paper-brightgreen)]()
-[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)]()
+[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://docs.google.com/presentation/d/10l_7eXjjE90Vqb0ammYmlSlBo4rVRH3F/edit?usp=sharing&ouid=108348190349543369603&rtpof=true&sd=true)
 [![web](https://img.shields.io/badge/Website-Project-orange)](https://tentativegithub.github.io/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/SRMNet_thesis)  
 
