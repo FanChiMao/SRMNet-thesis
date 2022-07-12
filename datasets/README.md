@@ -59,7 +59,7 @@ More details of datasets could be found in __**section 4.1**__ of my thesis.
   - Testing set: [MIT-5K](https://drive.google.com/drive/folders/1Jv0_9CnYxh_2ReFaVrwG19O3F7xBtdZT?usp=sharing)
 
 ## Preprocess  
-Crop the patches by [this code](https://github.com/FanChiMao/SRMNet-thesis/blob/main/generate_patches.py) for each dataset according to the following table.  
+Crop the patches by [**generate_patches.py**](https://github.com/FanChiMao/SRMNet-thesis/blob/main/generate_patches.py) for each dataset according to the following table.  
 <img src = "https://i.imgur.com/b93EgXf.png" width="800">  
 <img src = "https://i.imgur.com/b93EgXf.png" width="800">  
 
