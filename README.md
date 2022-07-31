@@ -4,6 +4,7 @@
 [![pdf](https://img.shields.io/badge/PDF-Paper-brightgreen)](https://drive.google.com/file/d/1PKB0Mb02cmNcB5zCae_SYDbgPr4w86xy/view?usp=sharing) 
 [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://docs.google.com/presentation/d/10l_7eXjjE90Vqb0ammYmlSlBo4rVRH3F/edit?usp=sharing&ouid=108348190349543369603&rtpof=true&sd=true) 
 [![web](https://img.shields.io/badge/Website-Project-orange)](https://tentativegithub.github.io/) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ce9NtVfnP9XvjzOrFeMIMo5yegb2Vc-a?usp=sharing) 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/SRMNet_thesis)  
 
 <!--范植貿(研究生)、劉宗榮(指導教授)  -->
