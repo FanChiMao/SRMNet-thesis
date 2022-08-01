@@ -15,8 +15,8 @@ from model_arch.SRMNet import SRMNet
 
 tasks = ['Deblurring_motionblur',
          'Dehaze_realworld',
-         'Denoising_gaussian',
-         'Denoising_realworld',
+         'Denoise_gaussian',
+         'Denoise_realworld',
          'Deraining_raindrop',
          'Deraining_rainstreak',
          'LLEnhancement',
