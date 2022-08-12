@@ -2,9 +2,11 @@
 
 You can download the pretrained model separately:  
 
-**Deblurring_motionblur**  
-  - [Google cloud](https://drive.google.com/file/d/1JEaUudRLndt--tIRgp3nEdDJOMFffAQb/view?usp=sharing)  
-  - [Download URL](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Deblurring_motionblur.pth)  
+| Restoration task | Google Cloud | Directly Download |
+|:----------------:|:----------------:|:----------------:|
+|**Deblurring_motionblur**|[Google](https://drive.google.com/file/d/1JEaUudRLndt--tIRgp3nEdDJOMFffAQb/view?usp=sharing) | [Link](https://github.com/FanChiMao/SRMNet-thesis/releases/download/v0.0/Deblurring_motionblur.pth)|
+
+
 
 **Dehaze_realworld**  
   - [Google cloud](https://drive.google.com/file/d/1hjsazvdz7K-n1Z-_iiQE4VIFbG7r6HwN/view?usp=sharing)  
