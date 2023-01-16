@@ -9,9 +9,8 @@
 
 ## 🎉 This thesis earn the Taipei Section 2022 Best Dissertation Award  
 <details>  
-<summary>Certificate (Click to expand)</summary>  
-  <img src = "https://i.imgur.com/OC2jL5H.jpg" alt="1" width="300">
-  <img src = "https://i.imgur.com/26eMbci.jpg" alt="2" width="300">
+<summary><b>Certificate (Click to expand)</b></summary>  
+  <img src = "https://i.imgur.com/26eMbci.jpg" alt="2" width="500">
 </details>
 
 The pdf file of thesis will publish after 3 years (2025)  
