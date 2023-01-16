@@ -4,7 +4,7 @@
 ## 🎉 This thesis earn the Taipei Section 2022 Best Dissertation Award  
   <details>  
   <summary><b>Certificate (Click to expand)</b></summary>  
-    <img src = "https://i.imgur.com/26eMbci.jpg" alt="2" width="700">
+    <img src = "https://i.imgur.com/26eMbci.jpg" alt="2" width="600">
   </details>
 
 ## Chi-Mao Fan(student)、Tsung-Jung Liu(adviser)  
