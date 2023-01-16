@@ -2,10 +2,10 @@
 <!-- 利用可選擇性殘差塊在改良式階層編解碼器網路實現影像修復 -->
 
 ## 🎉 This thesis earn the Taipei Section 2022 Best Dissertation Award  
-<details>  
-<summary><b>Certificate (Click to expand)</b></summary>  
-  <img src = "https://i.imgur.com/26eMbci.jpg" alt="2" width="500">
-</details>
+  <details>  
+  <summary><b>Certificate (Click to expand)</b></summary>  
+    <img src = "https://i.imgur.com/26eMbci.jpg" alt="2" width="500">
+  </details>
 
 ## Chi-Mao Fan(student)、Tsung-Jung Liu(adviser)  
 [![pdf](https://img.shields.io/badge/PDF-Paper-brightgreen)]() 
