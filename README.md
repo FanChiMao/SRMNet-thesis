@@ -7,7 +7,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ce9NtVfnP9XvjzOrFeMIMo5yegb2Vc-a?usp=sharing) 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/SRMNet_thesis)  
 
-🎉 [Congrates!] This thesis earn the Taipei Section 2022 Best Dissertation Award  
+## 🎉 **Congrates** This thesis earn the Taipei Section 2022 Best Dissertation Award  
 
 
 The pdf file of thesis will publish after 3 years (2025)  
