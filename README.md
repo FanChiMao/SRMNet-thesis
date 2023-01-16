@@ -1,5 +1,12 @@
 # [NCHU thesis] <br />Image Restoration by Selective Residual Block on Improved Hierarchical Encoder-Decoder Networks  
 <!-- 利用可選擇性殘差塊在改良式階層編解碼器網路實現影像修復 -->
+
+## 🎉 This thesis earn the Taipei Section 2022 Best Dissertation Award  
+<details>  
+<summary><b>Certificate (Click to expand)</b></summary>  
+  <img src = "https://i.imgur.com/26eMbci.jpg" alt="2" width="500">
+</details>
+
 ## Chi-Mao Fan(student)、Tsung-Jung Liu(adviser)  
 [![pdf](https://img.shields.io/badge/PDF-Paper-brightgreen)]() 
 [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://docs.google.com/presentation/d/1ZnCirRdhdY5rOoH_mKf1XFmlHRZtCktZ/edit?usp=sharing&ouid=108348190349543369603&rtpof=true&sd=true) 
@@ -7,11 +14,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ce9NtVfnP9XvjzOrFeMIMo5yegb2Vc-a?usp=sharing) 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/SRMNet_thesis)  
 
-## 🎉 This thesis earn the Taipei Section 2022 Best Dissertation Award  
-<details>  
-<summary><b>Certificate (Click to expand)</b></summary>  
-  <img src = "https://i.imgur.com/26eMbci.jpg" alt="2" width="500">
-</details>
+
 
 The pdf file of thesis will publish after 3 years (2025)  
 <!--范植貿(研究生)、劉宗榮(指導教授)  -->
