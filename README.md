@@ -1,7 +1,7 @@
 # [NCHU thesis] <br />Image Restoration by Selective Residual Block on Improved Hierarchical Encoder-Decoder Networks  
 <!-- 利用可選擇性殘差塊在改良式階層編解碼器網路實現影像修復 -->
 
-## 🎉 This thesis earn the Taipei Section 2022 Best Dissertation Award  
+## 🎉 This thesis received the 2022 Best Dissertation Award from the Taipei Section    
   <details>  
   <summary><b>Certificate (Click to expand)</b></summary>  
     <img src = "https://i.imgur.com/26eMbci.jpg" alt="2" width="600">
