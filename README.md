@@ -12,7 +12,8 @@
 [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://docs.google.com/presentation/d/1ZnCirRdhdY5rOoH_mKf1XFmlHRZtCktZ/edit?usp=sharing&ouid=108348190349543369603&rtpof=true&sd=true) 
 [![web](https://img.shields.io/badge/Website-Project-orange)](https://tentativegithub.github.io/) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ce9NtVfnP9XvjzOrFeMIMo5yegb2Vc-a?usp=sharing) 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/SRMNet_thesis)  
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/52Hz/SRMNet_thesis) 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FSRMNet-thesis&label=visitors&countColor=%232ccce4&style=plastic)  
 
 
 
